@@ -1,2 +1,5 @@
 Transmitter Compilation
 gcc -o packet_sniffer.elf packet_sniffer.c -lnetfilter_queue -lcrypto
+
+Receiver Compilation
+gcc -o receiver.elf receiver.c -lpcap -lssl -lcrypto
