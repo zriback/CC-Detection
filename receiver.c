@@ -16,11 +16,11 @@ const unsigned char aes_key[16] = "mykey123"; /* Use the same key as the sender 
 FILE *secret_message_file = NULL;
 
 /* Specify the sender IP address */
-const char *sender_ip_str = "192.168.243.139";
+const char *sender_ip_str = "10.20.0.1";
 uint32_t sender_ip;
 
 /* Specify my IP address to make sure packetes are actually addressed to the receiver */
-const char* my_ip_str = "192.168.243.138";
+const char* my_ip_str = "10.20.0.2";
 
 /* Variables to keep track of message reconstruction */
 unsigned char *reconstructed_message = NULL;

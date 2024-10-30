@@ -37,7 +37,7 @@ typedef struct conn_info {
 conn_info_t *conn_list_head = NULL;
 
 /* Specify the target IP address */
-const char *target_ip_str = "192.168.243.138"; /* Replace with your target IP */
+const char *target_ip_str = "10.30.0.2"; /* Replace with your target IP */
 uint32_t target_ip = 0;
 
 /* AES key (must be 128 bits for AES-128) */
