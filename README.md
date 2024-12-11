@@ -1,8 +1,8 @@
 # Detecting Covert Channels with Machine Learning
 
-This repository contains all the raw datasets, cleaned datasets, covert channel code, data collection and processing code, and machine learning code for the Detecting Cover Channels with Machine Learning project. 
+This repository contains all the raw datasets, cleaned datasets, covert channel code, data collection and processing code, and machine learning code for the Detecting Covert Channels with Machine Learning project. 
 
-As of 11/20/2024: The PDF copy of the final research paper is not available yet, but when it is it will be included in this repository.
+A PDF copy of the final research paper for this project is also available in this repository. 
 
 The rest of this document contains general information to order to help your understanding off all the including files in this repository.
 
